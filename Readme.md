@@ -1,0 +1,1 @@
+Meu primeiro projeto lançado. A ideia é uma página de login para um site de conversa online. Eu ainda não tenho uma noção de como fazer com que a página seja responsiva, então até dado momento o site não funcionará direito com algumas telas. Pretendo corrigir isso quando eu tiver estudado mais. <3
